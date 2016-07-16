@@ -1,0 +1,10 @@
+Package: cross.spectral.analysis
+Type: Package
+Title: Cross-Spectral Analysis
+Version: 0.1
+Date: 2016-06-24
+Author: Daniel Wysocki
+Maintainer: Daniel Wysocki <dw2081@rit.edu>
+Description: Provides functions for performing cross-spectral analysis on unevenly sampled timeseries.
+License: MIT
+RoxygenNote: 5.0.1

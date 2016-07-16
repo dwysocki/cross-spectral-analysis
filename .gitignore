@@ -1,0 +1,7 @@
+# R
+NAMESPACE
+*.Rcheck
+man/
+
+# Emacs auto-save
+*~
